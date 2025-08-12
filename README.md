@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhyudaysingh264@gmail.com**
 
-- 📄 Know about my experiences here in my [résumé]([https://drive.google.com/file/d/1MB8hPUq6ln70fuRserffs6R5ox79t4oz/view?usp=sharing](https://drive.google.com/file/d/1DOD8auTeh9Tl1eo_HYR-sSuoktlMxb13/view?usp=sharing])
+- 📄 Know about my experiences here in my [résumé](https://drive.google.com/file/d/1DOD8auTeh9Tl1eo_HYR-sSuoktlMxb13/view?usp=drive_link)
 
 - ⚡ Fun fact **I've transformed more lines of code into working projects than cups of coffee into energy!**
 
